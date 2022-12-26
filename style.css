@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-color: rgb(147, 197, 244);
+}
+
+#cards-area {
+  margin-top: 60px;
+  height: 400px;
+}
+
+#cards-area > img {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+#pokemon {
+  left: 0;
+  right: 0;
+  margin: auto;
+}
